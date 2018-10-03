@@ -2,7 +2,7 @@
 
 ## Installation
 ```
-pup install Flask
+pip install Flask
 python app.py
 ```
 
